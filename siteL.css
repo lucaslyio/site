@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(37, 37, 37);
+}
+
+.nome{
+    display: flex;
+    align-items: center;
+    column-gap: 650px;
+    border: solid;
+    
+    background-color: black;
+    
+
+}
+
+.nome > div{
+    color: beige;
+
+}
+
+
+
+
+.e1{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.e1 > div{
+    background-color: rgb(0, 0, 0);
+    color: rgb(206, 206, 206);
+    
+    
+}
+
+.jogo{
+    display: flex;
+    width: 300px;
+    border: solid ;
+    
+}
